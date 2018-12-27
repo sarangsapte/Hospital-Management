@@ -1,2 +1,2 @@
 # Hospital-Management
-Hospital-Management
+Hospital Management Management Application
